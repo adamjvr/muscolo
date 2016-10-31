@@ -1,4 +1,4 @@
-update=10/4/2016 4:02:50 AM
+update=10/5/2016 1:05:57 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=C:/Users/adam/Documents/GitHub/KiCAD-OnHand-Lib/OnHand-Components-Sym
+LibName31=C:/Users/adam/Documents/GitHub/footprints/Libraries - KiCAD/HydroPWNics_Lib
